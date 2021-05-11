@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\bin\Debug\лаб9.exe.config
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\bin\Debug\лаб9.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\bin\Debug\лаб9.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.Form1.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Иммитационное моделирование\лаб9\лаб9\obj\Debug\лаб9.pdb
